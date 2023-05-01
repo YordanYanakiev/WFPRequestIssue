@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Projects\\Test\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+  },
+  "projects": {
+    "G:\\Projects\\Test\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Projects\\Test\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectName": "WpfApp1",
+        "projectPath": "G:\\Projects\\Test\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "packagesPath": "C:\\Users\\Sun\\.nuget\\packages\\",
+        "outputPath": "G:\\Projects\\Test\\WpfApp1\\WpfApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "c:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "c:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\19.3.0.53\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\19.4.0.38\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\19.4.0.48\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Blazor\\20.1.0.47\\NuGetPackages": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Xamarin\\19.3.0.53\\Xamarin\\nuget": {},
+          "D:\\Xamarin\\Syncfusion\\19.2.0.44\\Demos\\Xamarin\\19.2.0.44\\nuget": {},
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.100-preview.3.23178.7\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
